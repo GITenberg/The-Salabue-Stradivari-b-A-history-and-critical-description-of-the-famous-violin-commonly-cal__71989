@@ -5,6 +5,9 @@ contributor:
     agent_name: Slocombe, Shirley
     gutenberg_agent_id: '56487'
     url: http://www.gutenberg.org/2009/agents/56487
+covers:
+- cover_type: archival
+  image_path: 71989-h/images/cover.jpg
 creator:
   author:
     agent_name: Sons, W. E. Hill &
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '45968'
     url: http://www.gutenberg.org/2009/agents/45968
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71989#The-Salabue-Stradivari-b-A-history-and-critical-description-of-the-famous-violin-commonly-cal_
 gutenberg_issued: '2023-10-31'
 identifiers:
   gutenberg: '71989'
